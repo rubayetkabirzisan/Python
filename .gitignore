@@ -1,0 +1,52 @@
+# ── Python cache ──────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# ── Virtual environments ───────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+.env
+
+# ── Downloaded / generated binary output ──────────────────────────────────────
+# Day 98 – concurrent image downloader output
+files/
+
+# Day 96 – async downloader output
+instagram.ico
+instagram2.jpg
+instagram3.ico
+
+# Day 85 – CLI file downloader output
+*.jpg
+*.jpeg
+*.png
+*.ico
+*.gif
+*.bmp
+*.webp
+
+# ── Editor artifacts ───────────────────────────────────────────────────────────
+# VS Code Code Runner auto-generated file
+tempCodeRunnerFile.py
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm / JetBrains
+.idea/
+*.iml
+
+# ── OS junk ───────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Misc ──────────────────────────────────────────────────────────────────────
+*.log
+*.tmp
+*.bak
